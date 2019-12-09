@@ -1,2 +1,4 @@
 {
+  "DATABASE_NAME": "inventory-dev-mk",
+  "CLOUDANT_CONFIG": "{ \"apikey\": \"ZTEoRJkdwEpOEof24DxLRIOMcWSkKFV1ZDB5O52rm0Nd\", \"host\": \"fc492320-380c-4c90-a415-8f492a492a2b-bluemix.cloudantnosqldb.appdomain.cloud\", \"iam_apikey_description\": \"Auto-generated for key 86982624-cbe7-40d7-8b2c-8bd4042bd1b4\", \"iam_apikey_name\": \"mooc-three-rhos-cloudant-key\", \"iam_role_crn\": \"crn:v1:bluemix:public:iam::::serviceRole:Manager\", \"iam_serviceid_crn\": \"crn:v1:bluemix:public:iam-identity::a/b636d1d83e34d7ae7e904591ac248cfa::serviceid:ServiceId-bb87b869-8709-4213-ae90-12e292827e7b\", \"password\": \"3159be4a5dfbef95920d0e13b2ba15f3755953df0bcfc2e148b30b3096b65e5a\", \"port\": 443, \"url\": \"https://fc492320-380c-4c90-a415-8f492a492a2b-bluemix:3159be4a5dfbef95920d0e13b2ba15f3755953df0bcfc2e148b30b3096b65e5a@fc492320-380c-4c90-a415-8f492a492a2b-bluemix.cloudantnosqldb.appdomain.cloud\", \"username\": \"fc492320-380c-4c90-a415-8f492a492a2b-bluemix\" }"
 }

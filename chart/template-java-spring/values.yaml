@@ -32,3 +32,6 @@ ingress:
   path: "/"
 
 #  tlsSecretName: ""
+
+cloudantBinding: "binding-mooc-three-rhos-cloudant"
+databaseName: "inventory-dev-mk"
